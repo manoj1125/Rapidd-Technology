@@ -1,0 +1,6 @@
+@Rapidd_Technology_HostAddress = http://localhost:5054
+
+GET {{Rapidd_Technology_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
