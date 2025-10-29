@@ -1,0 +1,6 @@
+@Pie_Chart_HostAddress = http://localhost:5137
+
+GET {{Pie_Chart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
